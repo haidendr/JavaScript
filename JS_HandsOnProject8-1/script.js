@@ -3,7 +3,7 @@
 //Chapter 8
 //Hands-on Project 8-1
 
-//Author: Diane Haiden
+//Author: D.Haiden
 //Date:   6/25/2023
 
 //Filename: script.js
